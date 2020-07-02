@@ -1,0 +1,53 @@
+.back {
+    position: relative;
+    height: 100vh;
+}
+
+.front {
+    position: absolute;
+    left: calc(50% - 118px);
+    top: calc(50% - 63px);
+    pointer-events: none;    
+}
+
+#upleft {
+    float: left;
+    width: 50%;
+    height: 50%;
+   
+}
+
+#upright {
+    
+    float: right;
+    width: 50%;
+    height: 50%;
+   
+}
+
+#downleft {
+   
+    float: left;
+    width: 50%;
+    height: 50%;
+   
+}
+
+#downright {
+    
+    float: left;
+    width: 50%;
+    height: 50%;
+   
+}
+
+.diva{
+    text-align: center;
+    margin: 10px;
+   
+}
+
+.a {
+    text-decoration: none;
+    color: black;
+}
